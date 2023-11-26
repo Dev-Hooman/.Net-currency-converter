@@ -1,0 +1,17 @@
+E:\WinForm\Q5\bin\Debug\net6.0-windows\Q5.exe
+E:\WinForm\Q5\bin\Debug\net6.0-windows\Q5.deps.json
+E:\WinForm\Q5\bin\Debug\net6.0-windows\Q5.runtimeconfig.json
+E:\WinForm\Q5\bin\Debug\net6.0-windows\Q5.dll
+E:\WinForm\Q5\bin\Debug\net6.0-windows\Q5.pdb
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.csproj.AssemblyReference.cache
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.Form1.resources
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.csproj.GenerateResource.cache
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.GeneratedMSBuildEditorConfig.editorconfig
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.AssemblyInfoInputs.cache
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.AssemblyInfo.cs
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.csproj.CoreCompileInputs.cache
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.dll
+E:\WinForm\Q5\obj\Debug\net6.0-windows\refint\Q5.dll
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.pdb
+E:\WinForm\Q5\obj\Debug\net6.0-windows\Q5.genruntimeconfig.cache
+E:\WinForm\Q5\obj\Debug\net6.0-windows\ref\Q5.dll
